@@ -1,2 +1,3 @@
 # techdegree
-# Dont read me theres nothing here
+
+First project, a random quote generator
