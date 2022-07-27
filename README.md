@@ -1,3 +1,3 @@
-# techdegree
+# A Random Quote Generator 
 
-First project, a random quote generator
+First techdegree project, displays a random quote
